@@ -1,0 +1,1 @@
+Write-Host "test powershell with gir sync"
