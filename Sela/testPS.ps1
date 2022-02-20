@@ -1,1 +1,0 @@
-Write-Host "test powershell with git sync"
