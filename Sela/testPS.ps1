@@ -1,1 +1,1 @@
-Write-Host "test powershell with gir sync"
+Write-Host "test powershell with git sync"
