@@ -9,10 +9,9 @@ clear='\033[0m'
 echo "Password Cheack - password should contain at least:"
 echo "one lower case letter, one upper case letter, One number and be over 10 chars long"
 
-#option for user input
+# option for user input
 # echo "enter you password:"
-# read password
-
+# read s
 s=aASFASFfS5123as
 echo  "password is $s"
 # loop to check content of password var and validate it
